@@ -11,3 +11,4 @@ vector<int> vec;
 
 }
 
+int x;
